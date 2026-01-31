@@ -1,0 +1,62 @@
+cd C:\Users\Sanjana\chemical-equipment-app
+New-Item -Name .gitignore -ItemType File
+```
+
+**Paste this content into `.gitignore`:**
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+*.db
+*.sqlite3
+*.log
+
+# Django
+media/
+staticfiles/
+db.sqlite3
+*.log
+local_settings.py
+
+# Node
+node_modules/
+build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Sensitive data
+*.pem
+*.key
+.env
