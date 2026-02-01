@@ -53,7 +53,7 @@
 ![Desktop App](screenshots/desktop_appl.png)
 
 ### Data Visualizations
-
+![Charts](screenshots/visualization-webdashboard.png)
 
 ---
 
