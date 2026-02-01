@@ -55,6 +55,12 @@
 ### Data Visualizations
 ![Charts](screenshots/visualizations-webdashboard.png)
 
+### PDF AUTHENTICATION
+![Authentication](screenshots/pdf%20saving%20in%20dashboard.png)
+
+### Upload History in Desktop Application
+![History](screenshots/desktop_history.png)
+
 ---
 
 ## 🛠️ Tech Stack
