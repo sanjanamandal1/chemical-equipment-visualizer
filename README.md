@@ -44,16 +44,16 @@
 ## 📸 Screenshots
 
 ### Web Application - Light Mode
-![Web Dashboard](screenshots/web-dashboard.png)
+![Web Dashboard](screenshots/web_dashboard%20light%20mode.png)
 
 ### Web Application - Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](screenshots/web_dashboard%20dark%20mode.png)
 
 ### Desktop Application
-![Desktop App](screenshots/desktop-app.png)
+![Desktop App](screenshots/desktop_appl.png)
 
 ### Data Visualizations
-![Charts](screenshots/charts.png)
+![Charts](screenshots/visualization-webdashboard.png)
 
 ---
 
@@ -413,3 +413,5 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 **Made with ❤️ for Chemical Equipment Analysis**
+
+[def]: screenshots/desktop-app.png
